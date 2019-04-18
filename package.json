@@ -1,0 +1,23 @@
+{
+  "name": "triple-triad-html5",
+  "version": "1.0.0",
+  "description": "triple-triad-html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/helper-member-expression-to-functions": "^7.0.0",
+    "@z1/lib-ui-schema": "^0.1.0",
+    "aa": "^0.1.40",
+    "babel-helpers": "^6.24.1",
+    "grunt-z-schema": "^0.1.0",
+    "mobitel-zschema-readable-error": "^1.0.2",
+    "underscore": "^1.9.1",
+    "yajsv": "^0.7.5",
+    "z-joi-to-swagger": "^1.3.1",
+    "z-schema-errors": "^0.2.1"
+  }
+}
